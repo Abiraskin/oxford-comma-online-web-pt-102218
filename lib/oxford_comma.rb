@@ -1,5 +1,5 @@
-array = ["fiddleheads","okra","kohlrabi"]
 
-def oxford_comma(array)
-  ["fiddleheads","okra","kohlrabi"].join (",")
+
+def oxford_comma["fiddleheads","okra","kohlrabi"]
+  oxford_comma.join
 end
